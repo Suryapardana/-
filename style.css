@@ -1,0 +1,40 @@
+#jam {
+    color: #000;
+    font-size: 30px;
+    font-family: Oxanium;
+}
+
+#teks {
+    font-size: 30px;
+    color: #000;
+    margin-top: 10px;
+    font-family: Oxanium;
+}
+
+.grid {
+
+    display: grid;
+    place-items: center;
+    margin-top: 35vh;
+}
+
+.pagi {
+    background: #2980B9;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+    background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9);
+}
+.siang {
+    background: #F7971E;
+    background: -webkit-linear-gradient(to right, #FFD200, #F7971E);
+    background: linear-gradient(to right, #FFD200, #F7971E);
+}
+.sore {
+    background: #e65c00;
+    background: -webkit-linear-gradient(to right, #F9D423, #e65c00);
+    background: linear-gradient(to right, #F9D423, #e65c00);
+}
+.malam {
+    background: #4B79A1;
+    background: -webkit-linear-gradient(to right, #283E51, #4B79A1);
+    background: linear-gradient(to right, #283E51, #4B79A1);
+}
